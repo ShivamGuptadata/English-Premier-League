@@ -40,5 +40,5 @@ Data initially collected from the 2019-2020 football premier league. Check the n
 
 ![](https://github.com/ShivamGuptadata/English-Premier-League/blob/main/pic3.png)
 
-**Result-** The important position is **Centre-Forward** dure to fees and choice.
+**Result-** The important position is **Centre-Forward** due to fees and choice.
 
